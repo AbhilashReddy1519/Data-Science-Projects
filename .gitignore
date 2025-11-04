@@ -117,21 +117,21 @@ dmypy.json
 .pyre/
 
 # Data science specific
-*.csv
-*.xlsx
-*.xls
-*.parquet
-*.feather
-*.pkl
-*.pickle
-*.h5
-*.hdf5
-*.npy
-*.npz
-data/
-models/
-logs/
-*.log
+# *.csv
+# *.xlsx
+# *.xls
+# *.parquet
+# *.feather
+# *.pkl
+# *.pickle
+# *.h5
+# *.hdf5
+# *.npy
+# *.npz
+# data/
+# models/
+# logs/
+# *.log
 
 # IDEs
 .vscode/
